@@ -13,10 +13,9 @@ This repository contains 2 main components:
 
 ### Climate API Guide:
 
-API routes
- 
-Precipitation Query: /api/v1.0/precipitation
-Stations Query: /api/v1.0/stations
-Temperature Query (most active station): /api/v1.0/tobs
-Temperature from Start Date Query (yyyy-mm-dd): /api/v1.0/start
-Temperature for Date Range Query (yyyy-mm-dd/yyyy-mm-dd): /api/v1.0/start/end
+API routes:
+  - Precipitation Query: /api/v1.0/precipitation
+  - Stations Query: /api/v1.0/stations
+  - Temperature Query (most active station): /api/v1.0/tobs
+  - Temperature from Start Date Query (yyyy-mm-dd): /api/v1.0/start
+  - Temperature for Date Range Query (yyyy-mm-dd/yyyy-mm-dd): /api/v1.0/start/end
